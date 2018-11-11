@@ -8,7 +8,8 @@
 ### 1.1 캐릭터 종류
 
 #### 감시자
-  * 사진사  
+  * 사진사
+  ![감시자_예시](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EA%B0%90%EC%8B%9C%EC%9E%90_%EC%98%88%EC%8B%9C.png)
   * 노란 옷의 왕
   * 거미
   * 붉은 나비
@@ -46,6 +47,7 @@
 
 ### 2.2 추격 음악
  * 생존자-강렬한 비트
+ ![추각음악_예시](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%B6%94%EA%B2%A9%EC%9D%8C%EC%95%85_%EC%98%88%EC%8B%9C.png)
  * 감시자-강렬한 비트
  * 생존자-괴이한 동산
  * 감시자-괴이한 동산
@@ -55,10 +57,12 @@
 ### 2.3 액세서리
  * 메아리 1888개/조각 8388개로 구매 가능목록 
          * 사냥꾼의 화살통
+         ![액세서리_예시1](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C1.png)
          * 아버지의 회중시계
          * 정원사의 인형
  * 메아리 1068개/조각 3888개로 구매 가능목록
         * 점성술
+        ![액세서리_예시2](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C2.png)
         * 가죽 채찍
         * 반짇고리
         * 아이스크림 콘
@@ -68,6 +72,7 @@
         * 나비 그림자
  * 메아리 258개/조각 968개로 구매 가능목록
         * 도둑-바람개비 총
+        ![액세서리_예시3](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C3.png)
         * 포위드-사탕 양동이
         * 종이비행기
         * 행운의 룰렛
