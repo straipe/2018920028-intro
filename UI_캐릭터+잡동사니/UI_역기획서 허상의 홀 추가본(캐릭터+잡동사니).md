@@ -37,6 +37,7 @@
  * 펫, 추격음악, 액세서리
 
 ### 2.1 펫 종류
+ ![잡동사니_펫](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88-%ED%8E%AB.png)
  * 위스커 씨
  * 리틀 플라워
  * 파랑 나비
