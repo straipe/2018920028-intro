@@ -55,33 +55,33 @@
  * 감시자-블랙유머
 
 ### 2.3 액세서리
- * 메아리 1888개/조각 8388개로 구매 가능목록 
-         * 사냥꾼의 화살통
-              ![액세서리_예시1](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C1.png)
-         * 아버지의 회중시계
-         * 정원사의 인형
- * 메아리 1068개/조각 3888개로 구매 가능목록
-        * 점성술
-             ![액세서리_예시2](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C2.png)
-        * 가죽 채찍
-        * 반짇고리
-        * 아이스크림 콘
-        * 무도회 조명구
-        * 화염의 정령
-        * 얼굴 망토
-        * 나비 그림자
- * 메아리 258개/조각 968개로 구매 가능목록
-        * 도둑-바람개비 총
-             ![액세서리_예시3](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C3.png)
-        * 포위드-사탕 양동이
-        * 종이비행기
-        * 행운의 룰렛
-        * 술병
-        * 지팡이 우산
-        * 악당의 매력
-        * 낡은 총기
-        * 자신감 넘치는 탐정
-        * 쌍둥이
-        * 길 잃은 소녀
-        * 황금 나팔
-        * 앵콜 브레이커
+ #### 메아리 1888개/조각 8388개로 구매 가능목록 
+ * 사냥꾼의 화살통
+ ![액세서리_예시1](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C1.png)
+ * 아버지의 회중시계
+ * 정원사의 인형
+ #### 메아리 1068개/조각 3888개로 구매 가능목록
+ * 점성술
+ ![액세서리_예시2](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C2.png)
+ * 가죽 채찍
+ * 반짇고리
+ * 아이스크림 콘
+ * 무도회 조명구
+ * 화염의 정령
+ * 얼굴 망토
+ * 나비 그림자
+ #### 메아리 258개/조각 968개로 구매 가능목록
+ * 도둑-바람개비 총
+ ![액세서리_예시3](https://github.com/straipe/2018920028-intro/blob/master/UI_%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88/%EC%BA%90%EB%A6%AD%ED%84%B0%2B%EC%9E%A1%EB%8F%99%EC%82%AC%EB%8B%88_%EC%98%88%EC%8B%9C/%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC_%EC%98%88%EC%8B%9C3.png)
+ * 포위드-사탕 양동이
+ * 종이비행기
+ * 행운의 룰렛
+ * 술병
+ * 지팡이 우산
+ * 악당의 매력
+ * 낡은 총기
+ * 자신감 넘치는 탐정
+ * 쌍둥이
+ * 길 잃은 소녀
+ * 황금 나팔
+ * 앵콜 브레이커
